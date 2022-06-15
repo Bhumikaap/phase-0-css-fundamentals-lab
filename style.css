@@ -1,5 +1,63 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;  
+
+    }
+
+  header {
+    text-align: center;
+  }
+
+
+  img {
+    width: 900px;
+    height: 500px;
+    margin: auto;
+    display: block;
+    
+  }
+
+
+
+ nav>a {
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  background-color:grey;
+ }
+
+
+ figcaption {
+  text-align: center;
+  font-size:medium;
+}
+
+
+
+ 
+
+
+.Para_block {
+   /* padding-left: 141px;
+  padding-right: 141px; */
+ width: 700px; 
+/* align-content: center; */
+text-align: center;
+margin: auto;
+margin-top: 20px;
+}
+
+ 
+
+div {
+  /* padding-left: 132px;
+  padding-right: 110PX; */
+  text-align:center;
+  margin-top: 10px;
+  background-color:red;
+  float: left;
+  align-items: center;
+  margin-bottom: 30px;
+  width:25%;
 }
